@@ -1,0 +1,1 @@
+"C:/Users/white/anaconda3/python.exe" "C:/Users/white/Desktop/restart/python/VALAKS/VALAK_clara_alpha.py"
